@@ -1,0 +1,4 @@
+- Python 3.x
+- `transformers` library (install with `pip install transformers`)
+- `tensorflow` library (install with `pip install tensorflow`)
+- `tkinter` library (typically included with Python installation)
